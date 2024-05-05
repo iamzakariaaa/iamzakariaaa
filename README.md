@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**iamzakariaaa/iamzakariaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+imzakaria, a junior software engineer with a passion for crafting clean, efficient code. Graduated with a degree in Software Engineering, I've been honing my skills and diving deep into various technologies to build robust and scalable solutions.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java, JavaScript, TypeScript
+- **Frontend**: React, React Native, Angular
+- **Backend**: Spring Boot, Node.js
+- **State Management**: Redux
+- **DevOps**: Docker
+- **Cloud Platforms**: AWS
+- **Testing**: Jest
+- **Databases**: MySQL, MongoDB
+- **Web Technologies**: HTML & CSS
+
+## About Me
+My goal is to continuously learn and grow, leveraging my skills to create meaningful software solutions.
+
