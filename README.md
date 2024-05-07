@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-imzakaria, a junior software engineer with a passion for crafting clean, efficient code. Graduated with a degree in Software Engineering, I've been honing my skills and diving deep into various technologies to build robust and scalable solutions.
+imzakaria, a junior developer with a passion for crafting clean, efficient code. Graduated with a degree in Software Engineering, I've been honing my skills and diving deep into various technologies to build robust and scalable solutions.
 
 ## Skills
 
